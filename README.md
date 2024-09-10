@@ -24,6 +24,6 @@ The **Cafe Menu Page** demonstrates:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cafe-menu-page.git
+   git clone https://github.com/createwithanuj/cafe-menu-page.git
 
 2. Open the index.html file in your web browser to view the project.
